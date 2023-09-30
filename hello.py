@@ -1,10 +1,8 @@
 print("Hello world")
-X = input("What is your name? ")
-print(X+"is my name");
 Y = int(input())
 Z = int(input())
 print(Y)
-print(X)
+print(Z)
 print("HiIII")
 print("Hello")
 print("editted by preethi hehehe")
