@@ -1,6 +1,6 @@
 print("Hello world")
 X = input("What is your name? ")
-print(X)
+print(X+"is my name");
 Y = int(input())
 Z = int(input())
 print(Y)
