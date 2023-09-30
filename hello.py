@@ -1,0 +1,8 @@
+print("Hello world")
+X = input("What is your name? ")
+print(X)
+Y = int(input())
+Z = int(input())
+print(Y+Z)
+print("HiIII")
+print("Hello")
